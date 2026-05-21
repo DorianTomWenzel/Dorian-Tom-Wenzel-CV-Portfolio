@@ -1,13 +1,24 @@
 # Dorian-Tom-Wenzel-CV-Portfolio
-This repository contains supporting documents for my CV
+
+This repository contains supplementary academic documents accompanying my CV and cover letter.
 
 ## 🎓 Academic Records
-- Bachelor Transcript
-- Master Transcript
+- Abiturzeugnis
+- Bachelor’s Degree Certificate 
+- Master’s Degree Certificate 
 
 ## 📄 Theses
-- Bachelor Thesis: Title...
-- Master Thesis: Title...
+- Bachelor Thesis:
+    Behandlung endlicher Kopplung an thermische Bäder unter Verwendung des Korrelationsbildes
+- Master Thesis:
+    2D Yukawa Model applied to Hamiltonian Truncation Effective Theory
+  
+## Academic Background
 
-## 🔗 Contact
-Email: ...
+My academic background is focused on theoretical physics, with particular interest in:
+- Quantum Computing
+- Quantum Field Theory
+- Computational Physics
+- Algorithmic Efficiency
+
+The uploaded thesis projects reflect both theoretical and computational aspects of my studies.
